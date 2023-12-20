@@ -20,27 +20,9 @@ Welcome to JobNinja, where your dream job is just a tap away! JobNinja is an inn
 -🌐 Diverse Job Categories: JobNinja caters to various industries, providing a diverse array of job categories to suit your career goals.
 
 ## Getting Started
-
-Getting Started
-Clone the Repository:
-
-bash
-Copy code
-git clone https://github.com/your-username/JobNinja.git
-Navigate to the Project:
-
-bash
-Copy code
-cd JobNinja
-Install Dependencies:
-
-bash
-Copy code
-npm install
-Run the App:
-
-bash
-Copy code
-npm start
-
+1. Clone the Repository: git clone https://github.com/bron322/JobNinja.git
+2. cd JobNinja
+3. npm start
+4. Scan the QR code with EXPO app on your phone
+   
 Happy job hunting with JobNinja! 🚀✨
