@@ -3,7 +3,7 @@
 ![javascript](http://img.shields.io/badge/-Javascript-fcd400?style=flat-square&logo=javascript&logoColor=black)
 ![reactnative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-![cover](./cover.jpg)
+![cover](./cover.png)
 
 ---
 
