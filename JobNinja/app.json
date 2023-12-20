@@ -8,6 +8,26 @@
       "expo-router"
     ],
     "name": "JobNinja",
-    "slug": "JobNinja"
+    "slug": "JobNinja",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "4b5bd306-7e2f-4d4f-85fb-20696c8c59a6"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/4b5bd306-7e2f-4d4f-85fb-20696c8c59a6"
+    },
+    "android": {
+      "package": "com.bron322.JobNinja"
+    },
+    "ios": {
+      "bundleIdentifier": "com.bron322.JobNinja"
+    }
   }
 }
