@@ -31,18 +31,18 @@ const Welcome = ({ searchTerm, setSearchTerm, handleClick }) => {
             style={styles.searchInput}
             value={searchTerm}
             onChangeText={(text) => setSearchTerm(text)}
-            placeholder='What are you looking for?'
+            placeholder="What are you looking for?"
           />
         </View>
-      </View>
 
-      <TouchableOpacity style={styles.searchBtn} onPress={handleClick} >
+        <TouchableOpacity style={styles.searchBtn} onPress={handleClick}>
           <Image
             source={icons.search}
-            resizeMode='contain'
+            resizeMode="contain"
             style={styles.searchBtnImage}
           />
-      </TouchableOpacity>
+        </TouchableOpacity>
+      </View>
 
       <View style={styles.tabsContainer}>
         <FlatList
@@ -63,9 +63,8 @@ const Welcome = ({ searchTerm, setSearchTerm, handleClick }) => {
           horizontal
         />
       </View>
-
     </View>
-  )
-}
+  );
+};
 
-export default Welcome
+export default Welcome;
