@@ -13,11 +13,11 @@ Welcome to JobNinja, where your dream job is just a tap away! JobNinja is an inn
 
 ## Features
 
--🌟 Seamless Job Discovery: Effortlessly explore a wide range of job opportunities tailored to your skills and preferences.
+🌟 Seamless Job Discovery: Effortlessly explore a wide range of job opportunities tailored to your skills and preferences.
 
--📱 Mobile Accessibility: Access job listings anytime, anywhere. JobNinja empowers you to take control of your job search on the go.
+📱 Mobile Accessibility: Access job listings anytime, anywhere. JobNinja empowers you to take control of your job search on the go.
 
--🌐 Diverse Job Categories: JobNinja caters to various industries, providing a diverse array of job categories to suit your career goals.
+🌐 Diverse Job Categories: JobNinja caters to various industries, providing a diverse array of job categories to suit your career goals.
 
 ## Getting Started
 1. Clone the Repository: git clone https://github.com/bron322/JobNinja.git
